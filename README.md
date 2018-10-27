@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Mahad Khurshid
+L1F16BSCS0234  
+FOIT
